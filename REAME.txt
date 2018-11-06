@@ -1,4 +1,4 @@
-						# LEMP STACK
+# LEMP STACK
 Linux Enginx MongoDB PHP7 for Laravel on CentOS 7
 
 ## Exposing external port (Nginx, Mongo, PHP-FPM)
